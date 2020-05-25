@@ -45,6 +45,7 @@
         </div>
     </div>
 </template>
+
 <script>
 import bus from '../common/bus';
 export default {
